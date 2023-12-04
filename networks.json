@@ -1,0 +1,8 @@
+{
+  "sepolia": {
+    "JobListingNFT": {
+      "address": "0x7B89fDB9b2f016E32F9708fa42ED725B0b8c4DCB",
+      "startBlock": 4821276
+    }
+  }
+}
