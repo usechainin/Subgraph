@@ -1,14 +1,14 @@
-specVersion: 0.0.5
+specVersion: 0.0.6
 schema:
   file: ./schema.graphql
 dataSources:
   - kind: ethereum
     name: JobListingNFT
-    network: sepolia
+    network: optimism-goerli
     source:
-      address: "0x6aF3907Fcbe8eC279878BAFc5861D756B36f9710"
       abi: JobListingNFT
-      startBlock: 4821276
+      address: "0x03399fac4e4ef2f17e8f464808dd30a1eaaa8997"
+      startBlock: 18305772
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.7

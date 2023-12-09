@@ -4,5 +4,17 @@
       "address": "0x7B89fDB9b2f016E32F9708fa42ED725B0b8c4DCB",
       "startBlock": 4821276
     }
+  },
+  "fuji": {
+    "JobListingNFT": {
+      "address": "0x6be796cb66CdB3566b8AbebA2C516CbDF93fE831",
+      "startBlock": 28403354
+    }
+  },
+  "optimism-goerli": {
+    "JobListingNFT": {
+      "address": "0x03399fac4e4ef2f17e8f464808dd30a1eaaa8997",
+      "startBlock": 18305772
+    }
   }
 }
